@@ -1,0 +1,114 @@
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.deps.json
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.runtimeconfig.json
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.runtimeconfig.dev.json
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.dll
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.pdb
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.Views.dll
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.Views.pdb
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.csprojAssemblyReference.cache
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.csproj.CoreCompileInputs.cache
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorAssemblyInfo.cache
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorAssemblyInfo.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.AssemblyInfoInputs.cache
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.AssemblyInfo.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.TagHelpers.input.cache
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.TagHelpers.output.cache
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorCoreGenerate.cache
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add_Course.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add_Faculty.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Home\Assign_Faculty.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Home\Courses.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Partial_Inputs.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainLayout.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorTargetAssemblyInfo.cache
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorTargetAssemblyInfo.cs
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.Views.pdb
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.dll
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.pdb
+C:\Users\Helia\Desktop\Assignment2Asp\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.csproj.CopyComplete
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.deps.json
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.runtimeconfig.json
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.runtimeconfig.dev.json
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.dll
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.pdb
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.Views.dll
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.Views.pdb
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.csprojAssemblyReference.cache
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.csproj.CoreCompileInputs.cache
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorAssemblyInfo.cache
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorAssemblyInfo.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.AssemblyInfoInputs.cache
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.AssemblyInfo.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.TagHelpers.input.cache
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.TagHelpers.output.cache
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorCoreGenerate.cache
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Partial_Inputs.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainLayout.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorTargetAssemblyInfo.cache
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorTargetAssemblyInfo.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.Views.pdb
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.dll
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.pdb
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.csproj.CopyComplete
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Faculties\Create.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Faculties\Delete.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Faculties\Edit.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Faculties\Index.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Create.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Delete.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Edit.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Index.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\AssignFaculties\Create.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\AssignFaculties\Delete.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\AssignFaculties\Edit.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\AssignFaculties\Index.g.cshtml.cs
+C:\Users\Helia\Desktop\HeliaM300824698 (1)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.g.cshtml.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.deps.json
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.runtimeconfig.json
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.runtimeconfig.dev.json
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.dll
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.pdb
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.Views.dll
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\bin\Debug\netcoreapp2.1\HeliaM300824698.Views.pdb
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.csproj.AssemblyReference.cache
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.AssemblyInfoInputs.cache
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.AssemblyInfo.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.csproj.CoreCompileInputs.cache
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorAssemblyInfo.cache
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorAssemblyInfo.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.sourcelink.json
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.TagHelpers.input.cache
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.TagHelpers.output.cache
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorCoreGenerate.cache
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\AssignFaculties\Create.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\AssignFaculties\Delete.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\AssignFaculties\Edit.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\AssignFaculties\Index.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Create.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Delete.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Edit.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Index.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Faculties\Create.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Faculties\Delete.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Faculties\Edit.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Faculties\Index.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Partial_Inputs.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainLayout.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorTargetAssemblyInfo.cache
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.RazorTargetAssemblyInfo.cs
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.Views.pdb
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.dll
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.pdb
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM300824698.genruntimeconfig.cache
+C:\Users\Helia\OneDrive\Desktop\github\PrimeMinisters\FacultyManagment\HeliaM300824698 (2)\HeliaM300824698\HeliaM300824698\obj\Debug\netcoreapp2.1\HeliaM30.FEB4148D.Up2Date
